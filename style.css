@@ -1,0 +1,37 @@
+body {
+  margin: 0;
+  padding: 0;
+  background-color: #fdf4f7;
+  font-family: "Segoe UI", sans-serif;
+  color: #333;
+  text-align: center;
+}
+
+.carte {
+  max-width: 600px;
+  margin: 40px auto;
+  background-color: #fff;
+  border-radius: 20px;
+  padding: 30px;
+  box-shadow: 0 4px 15px rgba(0, 0, 0, 0.1);
+}
+
+h1 {
+  color: #e07a5f;
+}
+
+.photo {
+  width: 300px;
+  border-radius: 15px;
+  margin: 20px 0;
+}
+
+ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+li {
+  margin: 10px 0;
+  font-size: 18px;
+}
